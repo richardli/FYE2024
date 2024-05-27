@@ -1,7 +1,7 @@
 # FYE2024
 
-The takehome exam is at [https://github.com/richardli/FYE2024/main.pdf](main.pdf)
+The takehome exam is at [main.pdf](https://github.com/richardli/FYE2024/main.pdf)
 
-The dataset is at [https://github.com/richardli/FYE2024/blob/main/EV.csv](EV.csv)
+The dataset is at [EV.csv](https://github.com/richardli/FYE2024/blob/main/EV.csv)
 
-Please use this template at [https://github.com/richardli/FYE2024/blob/main/template.zip](template.zip)
+Please use this latex template: [template.zip](https://github.com/richardli/FYE2024/blob/main/template.zip)
